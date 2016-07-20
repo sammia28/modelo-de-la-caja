@@ -1,0 +1,17 @@
+.content, .text {
+	margin: 40px 20px 60px 80px;
+	border-left: 10px solid purple;
+	border-top: 20px solid purple;
+	border-right: 10px solid purple;
+	border-bottom: 20px solid purple;
+	display: block;
+	background: #F9CB9C;
+
+}
+.text{
+	text-align: center;
+	border: dashed green;
+	padding:2px 15px 2px 15px;
+	background: #FFFFFF;
+}
+
